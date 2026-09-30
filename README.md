@@ -114,6 +114,8 @@
 - 🗄️ Databases
 - 🧩 Data Structures & Algorithms
 
+- project :-https://student-performance-prediction-bkz7u8sl9os9pk9jh2tysv.streamlit.app/
+
 ---
 
 ## 📊 GitHub Stats
