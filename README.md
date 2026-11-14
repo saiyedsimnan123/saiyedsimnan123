@@ -74,19 +74,43 @@ I enjoy exploring how technology works, developing practical applications, and s
 | Computer Science | DSA, databases, software engineering |
 
 ---
+## 🚀 Featured Projects
 
-## Featured Project
+### 1. Nexora AI — Evidence-Driven Research Intelligence
 
-### 🎓 Student Performance Prediction
+An AI-powered research platform designed to help users explore, analyze, and understand academic research papers.
 
-A machine learning application that explores student academic performance prediction using data-driven techniques.
+**Key Focus Areas:**
+- AI-powered research and literature analysis
+- Academic paper comparison and claim verification
+- Research methodology, datasets, and limitations analysis
+- Identifying research trends and future directions
+- Evidence-based research insights
 
-- Python-based development
-- Data processing and analysis
-- Machine learning and predictive modeling
-- Interactive Streamlit application
+**[Explore Nexora AI →](https://nexora-r5xc7kwqt-saiyedsimnan123.vercel.app/)**
 
-**[Explore Live Project →](https://student-performance-prediction-bkz7u8sl9os9pk9jh2tysv.streamlit.app/)**
+---
+
+### 2. SplitMind AI — Intelligent Expense Splitting
+
+An AI-powered expense management application focused on making shared expenses easier to organize, understand, and manage.
+
+**Key Focus Areas:**
+- Smart expense management
+- Shared expense splitting
+- AI-powered assistance
+- Expense tracking and analytics
+- User-friendly interactive experience
+
+**[Explore SplitMind AI →](https://splitmind-ai-app-git-hackathon-splitmind-ai-saiyedsimnan123.vercel.app/)**
+
+---
+
+<div align="center">
+
+**Building practical applications at the intersection of AI and software engineering.**
+
+</div>
 
 ---
 
