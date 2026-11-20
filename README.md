@@ -87,7 +87,7 @@ An AI-powered research platform designed to help users explore, analyze, and und
 - Identifying research trends and future directions
 - Evidence-based research insights
 
-**[Explore Nexora AI →](https://nexora-pfj6p65fp-saiyedsimnan123.vercel.app/?utm_source=chatgpt.com)**
+**[Explore Nexora AI →]([https://frontend-wk2x-git-preview-vercel-deployment-saiyedsimnan123.vercel.app/?utm_source=chatgpt.com])**
 
 ---
 
